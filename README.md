@@ -22,9 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Brief
-
-[![colorize.sh demo][images/demo.gif]](https://github.com/TERRUSS/colorize.sh)
-
+![colorize.sh demo](images/demo.gif)
 A very simple CLI tool that magically turns your Black&White pictures into coloured ones !
 
 ### Built With
